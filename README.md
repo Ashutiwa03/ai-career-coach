@@ -100,6 +100,9 @@ ai-career-coach/
 ├── .env               # Environment variables
 └── package.json
 ```
+## 📸 Screenshots
+
+<img width="864" height="396" alt="ai" src="https://github.com/user-attachments/assets/b1422337-78ba-42d5-9943-4b42c8401610" />
 
 ## 🤝 Contributing
 
